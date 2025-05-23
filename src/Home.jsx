@@ -6,12 +6,7 @@ const Home =()=>{
     return (
         <div>
             <p>Routes blood Routes</p>
-            <img src={poke}/>
-            <img src={eevee}/>
-            <img src={poke}/>
-            <img src={eevee}/>
-            <img src={poke}/>
-            <img src={eevee}/>
+          
             <img src={poke}/>
             <img src={eevee}/>
             <img src={poke}/>
